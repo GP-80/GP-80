@@ -8,6 +8,10 @@ Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripol
 - Scripting engineering workflows with AutoLISP and Python.
 - Data analysis, reporting, and dashboarding with SQL and Power BI.
 
+### 📊 Dashboards
+
+- [E-Commerce RFM Dashboard](https://github.com/user-attachments/assets/b9848a82-87e7-44b4-a7cf-a139813fe1a4)
+
 ### 🗺️ Maps
 
 - [EU AI Development](https://raw.githubusercontent.com/GP-80/eu-ai-development-map/main/output/eu_ai_development_map.png)
