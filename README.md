@@ -1,6 +1,6 @@
 ![Banner](https://github.com/GP-80/GP-80/releases/download/v1.0/banner.png)
 
-Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripoli, Greece. I work across the full stack of spatial and data analysis — from satellite remote sensing and GIS automation to business intelligence and workflow scripting. Currently pursuing an **MSc in Data Analysis & Machine Learning**.
+Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripoli, Greece. I work across the full stack of spatial and data analysis, from satellite remote sensing and GIS automation to business intelligence and workflow scripting. Currently pursuing an **MSc in Data Analysis & Machine Learning**.
 
 - Spatial analysis and remote sensing using Google Earth Engine and satellite imagery.
 - Building and automating GIS workflows with QGIS and Python.
