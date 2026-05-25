@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ Introducing Myself
+## Hi, I'm George 👋
 
 ![Banner](https://raw.githubusercontent.com/GP-80/GP-80/main/banner.png)
 
