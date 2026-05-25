@@ -32,3 +32,4 @@ Hello, I'm George. Data Analyst based in Tripoli, Greece — civil engineer turn
 ### 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/geopapadakis/)
+
