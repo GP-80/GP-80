@@ -8,13 +8,6 @@ Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripol
 - Scripting engineering workflows with AutoLISP and Python.
 - Data analysis, reporting, and dashboarding with SQL and Power BI.
 
-### 📚 Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| [E-Commerce Sales Analysis](https://github.com/GP-80/ecommerce-analysis) | Customer segmentation and revenue insights from transactional e-commerce data | Python, SQL, Power BI |
-| [Auto-Mailer](https://github.com/GP-80/auto-mailer) | CLI that sends personalised insurance renewal emails with PDF attachments and duplicate-send protection | Python, Gmail SMTP |
-
 ### 🛠️ Tools
 
 - **Language:** Python, SQL, AutoLISP
