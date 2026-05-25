@@ -1,7 +1,5 @@
 ## Hi, I'm George 👋
 
-![Banner](https://raw.githubusercontent.com/GP-80/GP-80/main/banner.png)
-
 Hello, I'm George. Data Analyst based in Tripoli, Greece — civil engineer turned data professional. I use Python, SQL, and Power BI to extract insight from complex datasets, and I'm currently pursuing an **MSc in Data Analysis & Machine Learning**.
 
 - Analysing transactional data and building customer segmentation models using Python and SQL.
