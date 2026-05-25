@@ -1,11 +1,12 @@
 ![Banner](https://github.com/GP-80/GP-80/releases/download/v1.0/banner.png)
 
-Hello, I'm George. Data Analyst based in Tripoli, Greece — civil engineer turned data professional. I use Python, SQL, and Power BI to extract insight from complex datasets, and I'm currently pursuing an **MSc in Data Analysis & Machine Learning**.
+Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripoli, Greece. I work across the full stack of spatial and data analysis — from satellite remote sensing and GIS automation to business intelligence and workflow scripting. Currently pursuing an **MSc in Data Analysis & Machine Learning**.
 
-- Analysing transactional data and building customer segmentation models using Python and SQL.
-- Building interactive dashboards and business reports in Power BI.
-- Developing automation tools to streamline operational workflows.
-- Applying GIS and spatial analysis to geographic datasets.
+- Mapping wildfire burned areas in Greece using Google Earth Engine and satellite imagery.
+- Building and automating GIS workflows in QGIS with Python.
+- Analysing GNSS positioning data and visualising survey outputs.
+- Scripting AutoCAD workflows with AutoLISP for engineering tasks.
+- Building dashboards and performing business data analysis with Python, SQL, and Power BI.
 
 ### 📚 Projects
 
@@ -16,10 +17,10 @@ Hello, I'm George. Data Analyst based in Tripoli, Greece — civil engineer turn
 
 ### 🛠️ Tools
 
-- **Language:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Visualisation:** Power BI
-- **GIS:** QGIS
+- **Language:** Python, SQL, AutoLISP
+- **Geospatial:** QGIS, Google Earth Engine, GNSS
+- **Libraries:** Pandas, NumPy, Matplotlib, Geopandas
+- **Visualisation:** Power BI, Folium
 - **Database:** PostgreSQL, MySQL
 
 ### 🎓 Education
