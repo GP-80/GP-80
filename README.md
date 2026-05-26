@@ -14,6 +14,7 @@ Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripol
 
 ### 🗺️ Maps
 
+- [Greece Wildfire Analysis (2000–2025)](https://gp-80.github.io/greece-wildfire-analysis/greece_burned_2000_2025.html)
 - [EU AI Development](https://raw.githubusercontent.com/GP-80/eu-ai-development-map/main/output/eu_ai_development_map.png)
 - [US Population Density](https://raw.githubusercontent.com/GP-80/us-population-density/main/output.png)
 - [Chicago Motor Vehicle Theft](https://raw.githubusercontent.com/GP-80/chicago-motor-vehicle-theft/main/chicago_theft_hotspots_2026.png)
@@ -38,3 +39,4 @@ Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripol
 ### 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/geopapadakis/)
+
