@@ -29,7 +29,7 @@ Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripol
 - **Geospatial:** QGIS, Google Earth Engine, GNSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Geopandas
 - **Visualisation:** Power BI, Folium
-- **Database:** PostgreSQL, MySQL
+- **Database:** PostgreSQL
 
 ### 🎓 Education
 
