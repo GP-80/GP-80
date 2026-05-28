@@ -24,6 +24,8 @@ Hello, I'm George. Civil engineer turned geospatial data analyst based in Tripol
 
 - [E-Commerce RFM Dashboard](https://github.com/user-attachments/assets/b9848a82-87e7-44b4-a7cf-a139813fe1a4)
 
+- [DTR Monitor — Grafana Dashboard](https://raw.githubusercontent.com/GP-80/dtr-monitor/master/Screenshot.jpg)
+
 
 
 ### 🗺️ Maps
